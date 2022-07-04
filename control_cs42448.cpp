@@ -26,7 +26,7 @@
 
 #include <Arduino.h>
 #include "control_cs42448.h"
-#include "i2c_driver_wire.h"
+#include <i2c_driver_wire.h>
 
 
 #define CS42448_Chip_ID				0x01
