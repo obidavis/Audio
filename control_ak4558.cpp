@@ -7,7 +7,7 @@
  
 #include <Arduino.h>
 #include "control_ak4558.h"
-#include "Wire.h"
+#include "i2c_driver_wire.h"
 
 void AudioControlAK4558::initConfig(void)
 {

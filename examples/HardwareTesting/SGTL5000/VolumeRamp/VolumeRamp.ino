@@ -11,7 +11,7 @@
 // This example was originally contributed by Hedde Bosman
 
 #include <Audio.h>
-#include <Wire.h>
+#include <i2c_driver_wire.h>
 #include <SPI.h>
 #include <SD.h>
 #include <SerialFlash.h>

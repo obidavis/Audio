@@ -3,7 +3,7 @@
 // https://forum.pjrc.com/threads/28639-S-pdif?p=159530&viewfull=1#post159530
 
 #include <Audio.h>
-#include <Wire.h>
+#include <i2c_driver_wire.h>
 #include <SPI.h>
 #include <SD.h>
 #include <SerialFlash.h>

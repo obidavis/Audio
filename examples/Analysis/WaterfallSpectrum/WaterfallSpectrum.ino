@@ -34,7 +34,7 @@
 #include <SD.h>
 #include <SerialFlash.h>
 #include <SPI.h>
-#include <Wire.h>
+#include <i2c_driver_wire.h>
 
 // ILI9341 Color TFT Display connections
 #define TFT_DC      20

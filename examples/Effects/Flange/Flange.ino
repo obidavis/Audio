@@ -48,7 +48,7 @@ many blocks you provided with AudioMemory().
 */
 
 #include <Audio.h>
-#include <Wire.h>
+#include <i2c_driver_wire.h>
 #include <SD.h>
 #include <SPI.h>
 #include <SerialFlash.h>

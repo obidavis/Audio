@@ -1,5 +1,5 @@
 #include <Audio.h>
-#include <Wire.h>
+#include <i2c_driver_wire.h>
 #include <SPI.h>
 #include <SD.h>
 #include <SerialFlash.h>
@@ -7,7 +7,7 @@
 #include <synth_simple_drum.h>
 
 #include <Audio.h>
-#include <Wire.h>
+#include <i2c_driver_wire.h>
 #include <SPI.h>
 #include <SD.h>
 #include <SerialFlash.h>

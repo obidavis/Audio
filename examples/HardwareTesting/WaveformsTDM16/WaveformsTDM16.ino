@@ -3,7 +3,7 @@
 
 
 #include <Audio.h>
-#include <Wire.h>
+#include <i2c_driver_wire.h>
 
 // GUItool: begin automatically generated code
 AudioSynthWaveform       waveform6; //xy=220,287
